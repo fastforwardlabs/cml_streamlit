@@ -23,6 +23,10 @@ Fill in the details similarly to the screenshot below.
 Once the Application has been created, you can launch it from the Applications pane.
 This should open a browser window, with a Streamlit application running at a URL something like `streamlit-demo.cdsw-or-cml.your-organisation.com`.
 
+If everything worked, you should see something like this:
+
+![A working streamlit app](https://user-images.githubusercontent.com/6513950/99112467-9e63a100-25e5-11eb-9932-778ef5309e7a.png)
+
 To develop the Streamlit app, return to the Python 3 session, and hack away.
 Hot reloading of the app on save should work.
 
